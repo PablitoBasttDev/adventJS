@@ -9,7 +9,8 @@ El papel de regalo es el símbolo * y para envolver un regalo se coloca el símb
 <code>
 const gifts = ['cat', 'game', 'socks']
   
-const wrapped = wrapping(gifts)
+const wrapped = wrapping(gifts)  
+  
 console.log(wrapped)
 /* [
   "*****\n*cat*\n*****",
