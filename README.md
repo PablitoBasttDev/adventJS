@@ -10,10 +10,16 @@ El papel de regalo es el símbolo * y para envolver un regalo se coloca el símb
 const gifts = ['cat', 'game', 'socks']
   
 const wrapped = wrapping(gifts)
+  
 console.log(wrapped)
+  
 /* [
+  
   "*****\n*cat*\n*****",
+  
   "******\n*game*\n******",
+  
   "*******\n*socks*\n*******"
+  
 ] */
 </code>
