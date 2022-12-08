@@ -1,5 +1,5 @@
 # adventJS
-Challenges to improve my skills in JS
+<strong>Challenges to improve my skills in JS<strong>
 
 Reto#1: Automatizando envolver regalos de Navidad
 Este año los elfos han comprado una máquina que envuelve regalos. Pero… ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
