@@ -9,16 +9,16 @@
 ## Retos 
 |Reto N°|Título|link|Nivel de Dificultad|
 |---|---|---|---|
-|**Reto #1**|¡Automatizando envolver regalos de navidad!|[Reto #1](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%231)|:green_circle:|
-|**Reto #2**|Nadie quiere hacer horas extra|[Reto #2](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%232)|:green_circle:|
-|**Reto #3**|¿Cuántas cajas de regalos puede llevar Papá Noel?|[Reto #3](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%233)|:green_circle:|
-|**Reto #4**|Una caja dentro de otra caja y otra...|[Reto #4](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%234)|:yellow_circle:|
-|**Reto #5**|Optimizando viajes de Santa|[Reto #5](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%235)|:red_circle:|
-|**Reto #6**|Creando adornos navideños|[Reto #6](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%236)|:yellow_circle:|
-|**Reto #7**|Haciendo inventario de regalos|[Reto #7](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%237)|:green_circle:|
-|**Reto #8**|¡Necesitamos un mecánico!|[Reto #8](https://github.com/PablitoBasttDev/adventJS/blob/main/Challenge%238)|:yellow_circle:|
+|**Reto #1**|¡Automatizando envolver regalos de navidad!|[Reto #1](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_1.js)|:green_circle:|
+|**Reto #2**|Nadie quiere hacer horas extra|[Reto #2](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_2.js)|:green_circle:|
+|**Reto #3**|¿Cuántas cajas de regalos puede llevar Papá Noel?|[Reto #3](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_3.js)|:green_circle:|
+|**Reto #4**|Una caja dentro de otra caja y otra...|[Reto #4](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_4.js)|:yellow_circle:|
+|**Reto #5**|Optimizando viajes de Santa|[Reto #5](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_5.js)|:red_circle:|
+|**Reto #6**|Creando adornos navideños|[Reto #6](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_6.js)|:yellow_circle:|
+|**Reto #7**|Haciendo inventario de regalos|[Reto #7](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_7.js)|:green_circle:|
+|**Reto #8**|¡Necesitamos un mecánico!|[Reto #8](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_8.js)|:yellow_circle:|
 |**Reto #9**|Las locas luces de navidad|[Reto #9]()|:green_circle:|
-|**Reto #10**|El salto del trineo de Papá Noel|[Reto #10]()|:yellow_circle:|
+|**Reto #10**|El salto del trineo de Papá Noel|[Reto #10](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_10.js)|:yellow_circle:|
 |**Reto #11**|Papá Noel es Scrum Master|[Reto #11]()|:red_circle:|
 |**Reto #12**|Trineos eléctricos, ¡guau!|[Reto #12]()|:yellow_circle:|
 |**Reto #13**|Backup de los archivos de Papá Noel|[Reto #13]()|:green_circle:|
