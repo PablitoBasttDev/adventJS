@@ -1,18 +1,6 @@
-# adventJS
-<strong>Challenges to improve my skills in JS<strong>
+<h1 align='center'>#Advent JS</h1>
+<h4 align='center'>:construction:Repositorio en construcción:construction:</h4>
+## Descripción
+-Realice este repositorio para almacenar las soluciones a las que llegué en AdventJS 2022
 
-Reto#1: Automatizando envolver regalos de Navidad
-Este año los elfos han comprado una máquina que envuelve regalos. Pero… ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
-A la máquina se le pasa un array con los regalos. Cada regalo es un string. Necesitamos que la máquina envuelva cada regalo en papel de regalo y lo coloque en un array de regalos envueltos.
-El papel de regalo es el símbolo * y para envolver un regalo se coloca el símbolo * de forma que rodee totalmente al string por todos los lados. Por ejemplo:
 
-<code>
-const gifts = ['cat', 'game', 'socks']
-const wrapped = wrapping(gifts)  
-console.log(wrapped)
-/* [
-  "*****\n*cat*\n*****",
-  "******\n*game*\n******",
-  "*******\n*socks*\n*******"
-] */
-</code>
