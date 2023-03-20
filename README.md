@@ -20,16 +20,16 @@
 |**Reto #9**|Las locas luces de navidad|[Reto #9]()|:green_circle:|
 |**Reto #10**|El salto del trineo de Papá Noel|[Reto #10](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_10.js)|:yellow_circle:|
 |**Reto #11**|Papá Noel es Scrum Master|[Reto #11]()|:red_circle:|
-|**Reto #12**|Trineos eléctricos, ¡guau!|[Reto #12]()|:yellow_circle:|
-|**Reto #13**|Backup de los archivos de Papá Noel|[Reto #13]()|:green_circle:|
+|**Reto #12**|Trineos eléctricos, ¡guau!|[Reto #12](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_12.js)|:yellow_circle:|
+|**Reto #13**|Backup de los archivos de Papá Noel|[Reto #13](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_13.js)|:green_circle:|
 |**Reto #14**|El mejor camino|[Reto #14]()|:yellow_circle:|
-|**Reto #15**|Decorando el árbol de navidad|[Reto #15]()|:yellow_circle:|
+|**Reto #15**|Decorando el árbol de navidad|[Reto #15](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_15.js)|:yellow_circle:|
 |**Reto #16**|Arreglando las cartas de Papá Noel|[Reto #16]()|:red_circle:|
 |**Reto #17**|Llevando los regalos en sacos|[Reto #17]()|:yellow_circle:|
-|**Reto #18**|¡Nos quedamos sin tinta!|[Reto #18]()|:green_circle:|
-|**Reto #19**|Ordenando los regalos|[Reto #19]()|:green_circle:|
+|**Reto #18**|¡Nos quedamos sin tinta!|[Reto #18](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_18.js)|:green_circle:|
+|**Reto #19**|Ordenando los regalos|[Reto #19](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_19.js)|:green_circle:|
 |**Reto #20**|Más viajes retadores|[Reto #20]()|:red_circle:|
 |**Reto #21**|Creando la tabla de regalos|[Reto #21]()|:yellow_circle:|
-|**Reto #22**|La iluminación en sintonía|[Reto #22]()|:green_circle:|
+|**Reto #22**|La iluminación en sintonía|[Reto #22](https://github.com/PablitoBasttDev/adventJS/blob/main/Reto_22.js)|:green_circle:|
 |**Reto #23**|Compilador de Papá Noel|[Reto #23]()|:red_circle:|
 |**Reto #24**|El último reto es un laberinto|[Reto #24]()|:red_circle:|
